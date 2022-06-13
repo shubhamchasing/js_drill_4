@@ -5,7 +5,7 @@ const defaults = (obj, defaultProps) =>{
          return {};
         }
         else{
-            console.log("a")
+           // console.log("a")
             return obj;
         }
      }
